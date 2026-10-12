@@ -47,8 +47,6 @@ recommend('Newlyweds')
 4. Update the file paths to match your Drive location
 5. Run all cells
 
-## 📚 Reference
-Project inspired by CampusX tutorial on content-based filtering.
 
 ---
 ⭐️ Star this repo if you found it helpful!
